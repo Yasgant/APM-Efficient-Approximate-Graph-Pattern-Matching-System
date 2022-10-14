@@ -4,4 +4,4 @@ The code is unavailable because part of the code was forked from another private
 
 [Project Poster](Poster.pdf)
 
-[Project Written Report](Final_Report.docx)
+[Project Written Report](Final_Report.pdf)
